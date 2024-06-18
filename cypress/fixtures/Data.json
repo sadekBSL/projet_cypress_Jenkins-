@@ -1,0 +1,34 @@
+[
+  {
+  "prefix": "Mr.",
+  "firstName": "BOUSSOUL",
+  "lastName": "sadek",
+  "email": "mail@gmail.com",
+  "phone": "0757775166",
+  "guest": {
+    "prefix": "Mrs.",
+    "firstName": "LEMAIRE",
+    "lastName": "Jaques",
+    "email": "guest@mail.com",
+    "phone": "0756456789"
+  },
+  "Information": "yes"
+},
+{
+  "prefix": "Miss.",
+  "firstName": "POULA",
+  "lastName": "marine",
+
+  "email": "mail@gmail.com",
+  "phone": "0757775166",
+  "guest": {
+    "prefix": "Mrs.",
+    "firstName": "LEMAIRE",
+    "lastName": "Jaques",
+    
+    "email": "guest@mail.com",
+    "phone": "0756456789"
+  },
+  "Information": "yes"
+}
+]
